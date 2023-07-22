@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portofolio-website/static/css/main.a9907754.css",
+    "main.js": "/portofolio-website/static/js/main.92bf4e20.js",
+    "static/js/787.43d6189f.chunk.js": "/portofolio-website/static/js/787.43d6189f.chunk.js",
+    "static/media/foto latar biru.jpg": "/portofolio-website/static/media/foto latar biru.cbd4c134ec0c5edf68d5.jpg",
+    "static/media/color-sharp.png": "/portofolio-website/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/first-crud.png": "/portofolio-website/static/media/first-crud.0f42e44fb37547f0d7ce.png",
+    "static/media/color-sharp2.png": "/portofolio-website/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/canva.png": "/portofolio-website/static/media/canva.d8c3a47116877ec0e351.png",
+    "static/media/hairm.png": "/portofolio-website/static/media/hairm.ba1cc1d928a1af53dc7d.png",
+    "static/media/background-home.jpg": "/portofolio-website/static/media/background-home.6e5292f0dcc55e01f411.jpg",
+    "static/media/petcare.png": "/portofolio-website/static/media/petcare.4af888b6e933e277ed4a.png",
+    "static/media/header-img.png": "/portofolio-website/static/media/header-img.f323d972ccd9cc02b9bb.png",
+    "static/media/css.png": "/portofolio-website/static/media/css.19c8605d6b2861f5fbe0.png",
+    "static/media/library.png": "/portofolio-website/static/media/library.f88d32188a3d37b1b5a1.png",
+    "static/media/rizki-resume.pdf": "/portofolio-website/static/media/rizki-resume.f27030297bec01886110.pdf",
+    "static/media/C.png": "/portofolio-website/static/media/C.ae12a31c8988c1e3c710.png",
+    "static/media/react.png": "/portofolio-website/static/media/react.8541b143aec91404e0e4.png",
+    "static/media/laravel.png": "/portofolio-website/static/media/laravel.6bdbccc3008fe78cb040.png",
+    "static/media/bootstrap.png": "/portofolio-website/static/media/bootstrap.d6dfcf6f691f6346f70b.png",
+    "static/media/js.png": "/portofolio-website/static/media/js.7f8751632b42a9932c15.png",
+    "static/media/figma.png": "/portofolio-website/static/media/figma.46400ab8543f71a3650b.png",
+    "static/media/php.png": "/portofolio-website/static/media/php.9e632a45551b8501845d.png",
+    "static/media/CI.png": "/portofolio-website/static/media/CI.8c3533d6b2e25b104fdc.png",
+    "static/media/vscode.png": "/portofolio-website/static/media/vscode.59b449455ef8c2b2f79c.png",
+    "static/media/revicons.eot": "/portofolio-website/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portofolio-website/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portofolio-website/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon2.svg": "/portofolio-website/static/media/nav-icon2.e3808eb94fc33ca61db7d184ea34dbb6.svg",
+    "static/media/nav-icon3.svg": "/portofolio-website/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/logo.svg": "/portofolio-website/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "index.html": "/portofolio-website/index.html",
+    "static/media/nav-icon1.svg": "/portofolio-website/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.a9907754.css.map": "/portofolio-website/static/css/main.a9907754.css.map",
+    "main.92bf4e20.js.map": "/portofolio-website/static/js/main.92bf4e20.js.map",
+    "787.43d6189f.chunk.js.map": "/portofolio-website/static/js/787.43d6189f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9907754.css",
+    "static/js/main.92bf4e20.js"
+  ]
+}
