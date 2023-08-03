@@ -32,7 +32,8 @@ export const HeaderNavbar = () => {
         <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
             <Container>
                 <Navbar.Brand href="/">
-                    <img src={logo} alt="Logo" />
+                    {/* <img src="" alt="Logo" /> */}
+                    <h2 className="title">rizkiwnf</h2>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav">
                     <span className="navbar-toggler-icon"></span>
