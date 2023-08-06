@@ -19,6 +19,8 @@ import canva from "../assets/images/skills/canva.png";
 import figma from "../assets/images/skills/figma.png";
 import git from "../assets/images/skills/git.png";
 import vscode from "../assets/images/skills/vscode.png";
+import postman from "../assets/images/skills/postman.png";
+import restapi from "../assets/images/skills/rest-api-icon.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 import { SkillsCard } from "./skillscard";
@@ -122,6 +124,16 @@ export const Portofolio = () => {
         title: "VSCode",
         description: "Intermediate",
         imgUrl: vscode  ,
+      },
+      {
+        title: "Postman",
+        description: "Intermediate",
+        imgUrl: postman  ,
+      },
+      {
+        title: "Rest API",
+        description: "Intermediate",
+        imgUrl: restapi  ,
       },
     ]
 
