@@ -36,19 +36,19 @@ export const Portofolio = () => {
           title: "Fisrt CRUD",
           description: "Build website on second semester using HTML, CSS, JS, Bootstrap, PHP",
           imgUrl: firstcrud,
-          gitUrl: "https://github.com/",
+          gitUrl: "https://github.com/rizkiwnf/projekcrudsmt2",
         },
         {
           title: "Library CRUD",
           description: "Build website on second semester using HTML, CSS, JS, Bootstrap, PHP, Docker",
           imgUrl: library,
-          gitUrl: "https://github.com/",
+          gitUrl: "https://github.com/rizkiwnf/library-smt2",
         },
         {
           title: "HairM Website",
           description: "project in a group that displays information about HairM the mobile application",
           imgUrl: hairm,
-          gitUrl: "https://github.com/",
+          gitUrl: "https://gitlab.com/habil0105/hairm",
         },
       ];
 
