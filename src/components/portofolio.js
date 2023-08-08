@@ -4,6 +4,7 @@ import petcare from "../assets/images/projects/petcare.png";
 import firstcrud from "../assets/images/projects/first-crud.png";
 import library from "../assets/images/projects/library.png";
 import hairm from "../assets/images/projects/hairm.png";
+import test from "../assets/images/projects/test.png";
 import colorSharp2 from "../assets/images/color-sharp2.png";
 import html from "../assets/images/skills/html.png";
 import css from "../assets/images/skills/css.png";
@@ -51,6 +52,12 @@ export const Portofolio = () => {
           description: "project in a group that displays information about HairM the mobile application",
           imgUrl: hairm,
           gitUrl: "https://gitlab.com/habil0105/hairm",
+        },
+        {
+          title: "Technical Test Qbit",
+          description: "Built responsive website using ReactJS and Tailwindcss",
+          imgUrl: test,
+          gitUrl: "https://rizkiwnf.github.io/test-qbit-fullstack/",
         },
       ];
 
